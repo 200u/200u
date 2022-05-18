@@ -1,12 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ren&fontSize=90)
 
-<h3 align="center"> Hello ! This is ren.</h3>
+<h3 align="center"> Hello ! </h3>
 
 
 <p align="center">
-
-## Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ai27p&show_icons=true&hide=stars,prs,issues)
 
 ## Learning
 ![JS](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![JS](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white) ![JS](https://img.shields.io/badge/C_Sharp-239120?style=flat-square&logo=CSharp&logoColor=white) ![JS](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
